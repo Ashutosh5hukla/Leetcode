@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0001-two-sum) |
+| [1287-distance-between-bus-stops](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1287-distance-between-bus-stops) |
 ## Hash Table
 |  |
 | ------- |
