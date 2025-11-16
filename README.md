@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -96,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
