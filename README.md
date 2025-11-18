@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1287-distance-between-bus-stops](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
