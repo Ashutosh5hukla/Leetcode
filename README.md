@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
