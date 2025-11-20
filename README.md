@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0228-summary-ranges](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0414-third-maximum-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
