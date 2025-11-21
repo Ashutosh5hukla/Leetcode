@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0002-add-two-numbers) |
+| [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
 | ------- |
