@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1287-distance-between-bus-stops](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
