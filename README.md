@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0002-add-two-numbers) |
 | [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
