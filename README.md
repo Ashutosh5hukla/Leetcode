@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-distance-between-bus-stops](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Counting Sort
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
