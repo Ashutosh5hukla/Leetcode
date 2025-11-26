@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
