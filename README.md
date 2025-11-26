@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
