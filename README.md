@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
