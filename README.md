@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
