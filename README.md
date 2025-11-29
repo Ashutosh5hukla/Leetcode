@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
