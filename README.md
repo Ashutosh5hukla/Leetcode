@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
@@ -256,9 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Number Theory
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
