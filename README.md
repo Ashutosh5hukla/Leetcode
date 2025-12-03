@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Tree
 |  |
 | ------- |
