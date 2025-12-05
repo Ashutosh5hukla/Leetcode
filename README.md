@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
