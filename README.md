@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Heap (Priority Queue)
 |  |
