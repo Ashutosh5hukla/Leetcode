@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Heap (Priority Queue)
 |  |
