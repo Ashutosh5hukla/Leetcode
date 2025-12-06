@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Number Theory
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
