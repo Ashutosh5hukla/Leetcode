@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0748-shortest-completing-word) |
