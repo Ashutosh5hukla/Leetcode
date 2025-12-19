@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0002-add-two-numbers) |
+| [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0908-smallest-range-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0908-smallest-range-i) |
