@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [3583-count-special-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3174-clear-digits) |
 | [3433-count-mentions-per-user](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0506-relative-ranks) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Sliding Window
 |  |
 | ------- |
