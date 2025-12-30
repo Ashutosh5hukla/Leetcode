@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
+| [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0819-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
+| [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0908-smallest-range-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
