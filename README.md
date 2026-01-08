@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0228-summary-ranges) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0506-relative-ranks) |
