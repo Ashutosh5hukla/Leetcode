@@ -1,16 +1,14 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-        Stack<Integer> st=new Stack<>();
-        int p=0;
-        for(int i=arr.length-1;i>=0;i--){
-            if(st.isEmpty())st.push(arr[i]);
-            else if(st.peek()>arr[i]){
-                p=Math.max(p,st.peek()-arr[i]);
-            }else{
-                st.pop();
-                st.push(arr[i]);
+    public int maxProfit(int[] prices) {
+        int buy = prices[0];
+        int profit = 0;
+        for (int i = 1; i < prices.length; i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
             }
         }
-        return p;
+        return profit;
     }
 }
