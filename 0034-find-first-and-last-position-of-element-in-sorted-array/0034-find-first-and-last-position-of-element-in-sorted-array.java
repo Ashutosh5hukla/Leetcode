@@ -5,7 +5,7 @@ class Solution {
     }
 
 
-     int search(int arr[],int target,boolean isSearchingForFirstOccurance){
+     int search(int arr[],int target,boolean f){
         int start=0;
         int end=arr.length-1;
         int ans=-1;
@@ -17,17 +17,15 @@ class Solution {
             if(target<arr[mid]){
                 end=mid-1;
             }
-        if(arr[mid]==target) 
-        {         
-            //potential answer
-            ans=mid;
-        if(isSearchingForFirstOccurance){
-            end=mid-1;
+            if(arr[mid]==target) {         
+                ans=mid;
+                if(f){
+                end=mid-1;
+                }
+                else{
+                    start=start+1;
+                }
             }
-            else{
-                start=start+1;
-            }
-        }
         }
         return ans;
      }
