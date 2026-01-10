@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0748-shortest-completing-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
