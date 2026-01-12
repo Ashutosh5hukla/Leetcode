@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0258-add-digits) |
 | [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Binary Tree
 |  |
