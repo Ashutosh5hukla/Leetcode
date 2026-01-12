@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1550-three-consecutive-odds](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1598-crawler-log-folder](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1598-crawler-log-folder) |
