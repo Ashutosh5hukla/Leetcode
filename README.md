@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [3583-count-special-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3583-count-special-triplets) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
