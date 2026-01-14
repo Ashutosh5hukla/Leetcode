@@ -1,16 +1,11 @@
 class Solution {
-    int min(int arr[]){
-        int m=Integer.MAX_VALUE;
-        for(int ele:arr)m=Math.min(m,ele);
-        return m;
-    }
     int max(int arr[]){
         int m=Integer.MIN_VALUE;
         for(int ele:arr)m=Math.max(m,ele);
         return m;
     }
     public int minimizeArrayValue(int[] arr) {
-        int s=Math.max(arr[0],min(arr));
+        int s=arr[0];
         int e=max(arr);
         int ans=-1;
         while(s<=e){
