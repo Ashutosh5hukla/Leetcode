@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1287-distance-between-bus-stops) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1895-largest-magic-square) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
