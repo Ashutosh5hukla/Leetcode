@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3453-separate-squares-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting Sort
 |  |
 | ------- |
