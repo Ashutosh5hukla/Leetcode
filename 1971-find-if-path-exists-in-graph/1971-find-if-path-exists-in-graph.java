@@ -11,21 +11,15 @@ class Solution {
             adj.get(a).add(b);
             adj.get(b).add(a);
         }
-        bfs(adj,vis,s);
+        dfs(adj,vis,s);
         return vis[d];
     }
-    void bfs(List<List<Integer>> adj,boolean vis[],int s){
+    void dfs(List<List<Integer>> adj,boolean vis[],int s){
         vis[s]=true;
-        Queue<Integer> q=new LinkedList<>();
-        q.add(s);
-        while(!q.isEmpty()){
-            int t=q.remove();
-            for(int i=0;i<adj.get(t).size();i++){
-                if(!vis[adj.get(t).get(i)]){
-                    q.add(adj.get(t).get(i));
-                    vis[adj.get(t).get(i)]=true;
-                }
-            }
+       for(int i=0;i<adj.get(s).size();i++){
+        if(!vis[adj.get(s).get(i)]){
+            dfs(adj,vis,adj.get(s).get(i));
         }
+       }
     }
 }
