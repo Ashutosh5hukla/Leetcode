@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2974-minimum-number-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3024-type-of-triangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3024-type-of-triangle) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3453-separate-squares-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2974-minimum-number-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Linked List
