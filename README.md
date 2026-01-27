@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2974-minimum-number-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2974-minimum-number-game) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Interactive
 |  |
 | ------- |
@@ -667,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
