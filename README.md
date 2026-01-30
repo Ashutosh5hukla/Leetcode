@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3024-type-of-triangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3019-number-of-changing-keys](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3174-clear-digits) |
 | [3606-coupon-code-validator](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Interactive
 |  |
@@ -683,5 +687,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
