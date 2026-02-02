@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0924-fair-candy-swap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
