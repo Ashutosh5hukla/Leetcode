@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Linked List
 |  |
