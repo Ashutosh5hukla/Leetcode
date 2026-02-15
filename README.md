@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0645-set-mismatch) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0258-add-digits) |
