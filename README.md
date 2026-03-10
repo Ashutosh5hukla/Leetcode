@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
