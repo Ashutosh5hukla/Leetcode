@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0695-max-area-of-island) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Game Theory
 |  |
