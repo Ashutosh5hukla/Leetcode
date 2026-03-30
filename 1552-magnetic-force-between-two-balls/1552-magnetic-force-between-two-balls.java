@@ -25,13 +25,13 @@ class Solution {
     boolean check(int arr[],int no,int dist){
         int i=0;
         int j=1;
-        while(j<arr.length && no!=1){
+        while(j<arr.length){
             if(arr[j]-arr[i]>=dist){
                 no-=1;
                 i=j;
             }
             j++;
         }
-        return no==1;
+        return no<=1;
     }
 }
