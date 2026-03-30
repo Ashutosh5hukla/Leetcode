@@ -32,6 +32,6 @@ class Solution {
             }
             j++;
         }
-        return no<=1;
+        return no==1;
     }
 }
