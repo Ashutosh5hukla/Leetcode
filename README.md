@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
