@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
