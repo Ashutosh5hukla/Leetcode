@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
