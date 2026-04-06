@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2560-house-robber-iv](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -805,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
