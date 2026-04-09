@@ -5,8 +5,6 @@ class Solution {
         if(n==2)return Math.max(nums[0],nums[1]);
         int dp1[]=new int[n];
         int dp2[]=new int[n];
-        Arrays.fill(dp1,-1);
-        Arrays.fill(dp2,-1);
         int case1 =tab(nums,dp1,0,n-1);
         int case2 =tab(nums,dp2,1,n);
         return Math.max(case1,case2);
