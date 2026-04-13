@@ -1,23 +1,19 @@
 class Solution {
     public long maxAlternatingSum(int[] arr) {
-        int n=arr.length;
-        long dp[][]=new long[n][2];
-        for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+        int n = arr.length;
+        long dp[][] = new long[n][2];
+        dp[0][1] = arr[0];
+        dp[0][0] = 0;
+        for(int i = 1; i < n; i++) {
+            // even (+)
+            long t1 = dp[i-1][0] + arr[i];
+            long s1 = dp[i-1][1];
+            dp[i][1] = Math.max(t1, s1);
+            // odd (-)
+            long t2 = dp[i-1][1] - arr[i];
+            long s2 = dp[i-1][0];
+            dp[i][0] = Math.max(t2, s2);
         }
-        long ans=helper(arr,0,1,dp);
-        return ans;
-    }
-    long helper(int[]arr,int i,int isEven,long[][] dp){
-        if(i>=dp.length)return 0;
-        if(dp[i][isEven]!=-1)return dp[i][isEven];
-        long s=helper(arr,i+1,isEven,dp);
-        long t;
-        if(isEven==1){//even idx so add
-            t=arr[i]+helper(arr,i+1,0,dp);
-        }else{//odd so sub
-            t=helper(arr,i+1,1,dp)-arr[i];
-        }
-        return dp[i][isEven]=Math.max(t,s);
+        return dp[n-1][1];
     }
 }
