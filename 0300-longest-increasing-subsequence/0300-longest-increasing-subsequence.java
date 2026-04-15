@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int dp[][] = new int[nums.length][nums.length + 1];
+        int dp[][] = new int[nums.length][nums.length];
         for (int i = 0; i < dp.length; i++) {
             Arrays.fill(dp[i], -1);
         }
@@ -9,15 +9,16 @@ class Solution {
 
     int helper(int arr[], int i, int prevIdx, int dp[][]) {
         if (i >= arr.length) return 0;
-        if (dp[i][prevIdx + 1] != -1)return dp[i][prevIdx + 1];
+        if ( prevIdx!=-1 &&dp[i][prevIdx] != -1)return dp[i][prevIdx];
         int t = 0;
-        if (prevIdx == -1) {
-            t = 1 + helper(arr, i + 1, i, dp);
+        if(prevIdx == -1) {
+            t=1+helper(arr,i+1,i,dp);
         }
-        else if (arr[prevIdx] < arr[i]) {
-            t = 1 + helper(arr, i + 1, i, dp);
+        else if(arr[prevIdx] < arr[i]) {
+            t=1+helper(arr,i+1,i,dp);
         }
-        int s = helper(arr, i + 1, prevIdx, dp);
-        return dp[i][prevIdx + 1] = Math.max(t, s);
+        int s = helper(arr,i+1,prevIdx,dp);
+        if(prevIdx!=-1)dp[i][prevIdx] = Math.max(t, s);
+        return Math.max(t, s);
     }
 }
