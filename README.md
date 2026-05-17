@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
