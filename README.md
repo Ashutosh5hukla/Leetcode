@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3583-count-special-triplets) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3019-number-of-changing-keys](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
