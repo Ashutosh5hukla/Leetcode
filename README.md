@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2048-build-array-from-permutation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2092-find-all-people-with-secret](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1603-design-parking-system) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3583-count-special-triplets) |
 ## Greedy
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
