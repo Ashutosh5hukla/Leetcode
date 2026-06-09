@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
