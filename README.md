@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3024-type-of-triangle](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
