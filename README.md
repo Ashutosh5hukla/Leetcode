@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2092-find-all-people-with-secret](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2469-convert-the-temperature) |
