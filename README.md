@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1720-decode-xored-array) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
