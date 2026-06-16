@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1528-shuffle-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1528-shuffle-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
