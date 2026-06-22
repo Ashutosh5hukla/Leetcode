@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
