@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2634-minimum-common-value](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2634-minimum-common-value) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -1024,4 +1026,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
