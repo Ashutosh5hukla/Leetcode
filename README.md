@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1720-decode-xored-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1895-largest-magic-square) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2000-reverse-prefix-of-word) |
