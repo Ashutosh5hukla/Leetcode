@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Counting Sort
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1035,4 +1040,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
