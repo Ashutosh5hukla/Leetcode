@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1720-decode-xored-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1512-number-of-good-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1603-design-parking-system) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3583-count-special-triplets) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1816-truncate-sentence) |
