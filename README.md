@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0598-range-addition-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0877-stone-game) |
 ## Line Sweep
 |  |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Combinatorics
 |  |
