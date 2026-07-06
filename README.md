@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3516-find-closest-person) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union Find
 |  |
 | ------- |
