@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2235-add-two-integers) |
