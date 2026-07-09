@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1603-design-parking-system](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -1102,4 +1105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
