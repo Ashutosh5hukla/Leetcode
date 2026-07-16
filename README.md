@@ -898,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3516-find-closest-person) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2413-smallest-even-multiple](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutosh5hukla/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Tree
 |  |
