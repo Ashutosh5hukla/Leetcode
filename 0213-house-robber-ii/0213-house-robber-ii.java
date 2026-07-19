@@ -5,16 +5,16 @@ class Solution {
         if(n==2)return Math.max(nums[0],nums[1]);
         int dp1[]=new int[n];
         int dp2[]=new int[n];
-        int case1 =tab(nums,dp1,0,n-1);
-        int case2 =tab(nums,dp2,1,n);
-        return Math.max(case1,case2);
+        Arrays.fill(dp1,-1);
+        Arrays.fill(dp2,-1);
+        return Math.max(help(nums,0,dp1,nums.length-1),help(nums,1,dp2,nums.length));
+
     }
-    int tab(int arr[],int dp[],int i,int n){
-        dp[i]=arr[i];
-        dp[i+1]=Math.max(arr[i],arr[i+1]);
-        for(int j=i+2;j<n;j++){
-            dp[j]=Math.max(dp[j-1],arr[j]+dp[j-2]);
-        }
-        return dp[n-1];
-    } 
+    int help(int arr[],int i,int dp[],int n){
+        if(i>=n)return 0;
+        if(dp[i]!=-1)return dp[i];
+        int t=arr[i]+help(arr,i+2,dp,n);
+        int s=help(arr,i+1,dp,n);
+        return dp[i]=Math.max(t,s);
+    }
 }
