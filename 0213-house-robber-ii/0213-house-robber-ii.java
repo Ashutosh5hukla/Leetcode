@@ -6,13 +6,16 @@ class Solution {
     }
     int solve(int arr[],int s,int e){
         if(s==e) return arr[s];
-        int dp[]=new int[arr.length];
-        dp[s]=arr[s];
-        dp[s+1]=Math.max(arr[s],arr[s+1]);
+        int dp[]=new int[3];
+        dp[0]=arr[s];
+        dp[1]=Math.max(arr[s],arr[s+1]);
+        dp[2]=dp[1];
         for(int i=s+2;i<=e;i++){
-            dp[i]=Math.max(dp[i-1],dp[i-2]+arr[i]);
+            dp[2]=Math.max(dp[1],dp[0]+arr[i]);
+            dp[0]=dp[1];
+            dp[1]=dp[2];
         }
-        return dp[e];
+        return dp[2];
     }
     
 }
