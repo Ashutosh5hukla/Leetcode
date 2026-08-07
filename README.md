@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0213-house-robber-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0455-assign-cookies) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1088,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1166,4 +1171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
