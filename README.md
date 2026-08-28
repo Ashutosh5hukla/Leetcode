@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2439-minimize-maximum-of-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/2439-minimize-maximum-of-array) |
