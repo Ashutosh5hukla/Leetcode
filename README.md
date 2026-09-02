@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1720-decode-xored-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1773-count-items-matching-a-rule) |
