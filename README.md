@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1037-valid-boomerang) |
 | [1048-longest-string-chain](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1048-longest-string-chain) |
 | [1095-find-in-mountain-array](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1287-distance-between-bus-stops](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Ashutosh5hukla/Leetcode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ashutosh5hukla/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
