@@ -1,33 +1,48 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-        int arr[]={search(nums,target,true),search(nums,target,false)};
-        return arr;
-    }
-
-
-     int search(int arr[],int target,boolean f){
-        int start=0;
-        int end=arr.length-1;
-        int ans=-1;
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(target>arr[mid]){
-                start=mid+1;
+    private int f1(int[] nums1, int target1){
+        int l=0;
+        int r=nums1.length-1;
+        int x=-1;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(nums1[mid]==target1){
+                x=mid;
+                r=mid-1;
             }
-            if(target<arr[mid]){
-                end=mid-1;
+            else if(nums1[mid]>target1){
+                r=mid-1;
             }
-            if(arr[mid]==target) {         
-                ans=mid;
-                if(f){
-                end=mid-1;
-                }
-                else{
-                    start=start+1;
-                }
+            else{
+                l=mid+1;
             }
         }
-        return ans;
-     }
-     
+        return x;
+    }
+
+    private int f2(int[] nums2, int target2){
+        int l=0;
+        int r=nums2.length-1;
+        int y=-1;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(nums2[mid]==target2){
+                y=mid;
+                l=mid+1;
+            }
+            else if(nums2[mid]>target2){
+                r=mid-1;
+            }
+            else{
+                l=mid+1;
+            }
+        }
+        return y;
+    }
+
+    public int[] searchRange(int[] nums, int target) {
+        int[] arr = {-1, -1};
+        arr[0] = f1(nums, target);
+        arr[1] = f2(nums, target);
+        return arr;
+    }
 }
